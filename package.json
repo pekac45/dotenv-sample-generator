@@ -23,8 +23,7 @@
 		"url": "https://github.com/pekac45/dotenv-sample-generator/issues"
 	},
 	"homepage": "https://github.com/pekac45/dotenv-sample-generator#readme",
-	"dependencies": {
-		"jest": "^27.0.6",
-		"shelljs": "^0.8.4"
+	"dev-dependencies": {
+		"jest": "^27.0.6"
 	}
 }
