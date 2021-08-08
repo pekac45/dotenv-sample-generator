@@ -1,6 +1,6 @@
 {
 	"name": "dotenv-sample-generator",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Generate sample file from .env",
 	"main": "index.js",
 	"scripts": {
