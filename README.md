@@ -7,7 +7,7 @@ Running dotenv-generate will remove all secrets and only save the keys and comme
 
 - Install
 
-```npm i dotenv-sample-generator```
+```npm i dotenv-sample-generator --save-dev```
 
 - Add this to your scripts in package.json
 
