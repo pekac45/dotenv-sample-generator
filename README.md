@@ -23,8 +23,8 @@ Running dotenv-generate will remove all secrets and only save the keys and comme
 
 ## API
 The command takes 2 optional flags.
-- --env (default .env) - if your .env file is called something else, you can use this flag to change the name like 
--- `--env .enviroment`
+* --env (default .env) - if your .env file is called something else, you can use this flag to change the name like 
+  * `--env .enviroment`
 
-- --sample (default .env-sample) - the filename to generate, like 
--- `--sample .env-baseline`
+* --sample (default .env-sample) - the filename to generate, like 
+  * `--sample .env-baseline`
