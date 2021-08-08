@@ -1,25 +1,25 @@
 {
-  "name": "dotenv-sample-generator",
-  "version": "0.0.1",
-  "description": "Generate sample file from .env",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pekac45/dotenv-sample-generator.git"
-  },
-  "keywords": [
-    "dotenv"
-  ],
-  "author": "Michal Pekar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pekac45/dotenv-sample-generator/issues"
-  },
-  "homepage": "https://github.com/pekac45/dotenv-sample-generator#readme",
-  "dependencies": {
-    "jest": "^27.0.6"
-  }
+	"name": "dotenv-sample-generator",
+	"version": "0.0.1",
+	"description": "Generate sample file from .env",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pekac45/dotenv-sample-generator.git"
+	},
+	"keywords": [
+		"dotenv"
+	],
+	"author": "Michal Pekar",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pekac45/dotenv-sample-generator/issues"
+	},
+	"homepage": "https://github.com/pekac45/dotenv-sample-generator#readme",
+	"dependencies": {
+		"jest": "^27.0.6"
+	}
 }
